@@ -61,13 +61,13 @@ The program shows:
 
 **Example Output (SJF):**
 
-Shortest Job First (SJF)
-Gantt Chart: | P2 | P4 | P1 | P3 |
-PID	AT	BT	WT	TAT	RT
-1	0	8	0	8	0
-2	1	4	7	11	7
-4	3	5	9	14	9
-3	2	9	15	24	15
+Shortest Job First (SJF) \n
+Gantt Chart: | P2 | P4 | P1 | P3 | \n
+PID	AT	BT	WT	TAT	RT \n
+1	0	8	0	8	0 \n
+2	1	4	7	11	7 \n
+4	3	5	9	14	9 \n
+3	2	9	15	24	15 \n
 
 Average Waiting Time: 7.75
 Average Turnaround Time: 14.25
