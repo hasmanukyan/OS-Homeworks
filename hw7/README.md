@@ -27,7 +27,7 @@ It also prints a **Gantt chart** showing the order of execution and computes ave
 
 Open a terminal, navigate to the project folder, and run:
 
-gcc schedulers.c -o scheduler
+`gcc schedulers.c -o scheduler`
 
 This will create an executable process called `scheduler`.
 
@@ -35,7 +35,7 @@ This will create an executable process called `scheduler`.
 
 Run the program in terminal writing:
 
-./scheduler
+`./scheduler`
 
 The program will prompt for:
 
